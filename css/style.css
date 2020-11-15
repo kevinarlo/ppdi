@@ -4597,7 +4597,6 @@ input[type="button"].btn-block {
   font-size: 1.25rem;
   line-height: inherit;
   white-space: nowrap;
-  width: 100%;
 }
 
 .navbar-brand:hover,
@@ -11059,7 +11058,7 @@ header .search-form .form-control {
 }
 
 .section {
-  padding: 5em 0;
+  padding: 7em 0;
 }
 
 .section-subscribe {
